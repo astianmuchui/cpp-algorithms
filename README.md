@@ -1,2 +1,2 @@
 # cpp-sandbox
-reference files for c++ course.
+ c++ course.
